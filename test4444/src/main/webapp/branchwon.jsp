@@ -10,6 +10,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-바보
+test
 </body>
 </html>
