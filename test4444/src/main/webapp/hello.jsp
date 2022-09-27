@@ -11,6 +11,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	브랜치파일 >> chan으로 업로드
+	브랜치파일 >> chan으로 업로드 >> main으로
 </body>
 </html>
